@@ -13,3 +13,11 @@ This session will detail the experience of the Center for Computer-Assisted Lega
 
 Outline of Talk:
 
+I. Law School Pedagogy, CCLangdell and the caselaw method (Sarah)
+II. Original plan for eLangdell (Elmer)
+III. Content issues/problems - e.g. How to figure out what case is a "contracts" case, how to decide how much case is used, copyright of TOCs and getting open cases (Sarah)
+IV. Tech issues with putting open cases into a way for law profs to use (Elmer)
+V. Our Current set up (Sarah)
+VI. The future possibilities (Elmer)
+
+
