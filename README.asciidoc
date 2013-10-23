@@ -21,6 +21,6 @@ This session will detail the experience of the Center for Computer-Assisted Lega
 . Content issues/problems - e.g. How to figure out what case is a "contracts" case, how to decide how much case is used, copyright of TOCs and getting open cases ({Author})
 . Tech issues with putting open cases into a way for law profs to use ({Author1})
 . Our Current set up ({Author})
-. The future possibilities ({Author}1)
+. The future possibilities ({Author1})
 
 
