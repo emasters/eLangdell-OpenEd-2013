@@ -16,11 +16,13 @@ This session will detail the experience of the Center for Computer-Assisted Lega
 
 === Outline of Talk:
 
-. Law School Pedagogy, CCLangdell and the caselaw method ( {Author} )
-. Original plan for eLangdell ({Author1})
-. Content issues/problems - e.g. How to figure out what case is a "contracts" case, how to decide how much case is used, copyright of TOCs and getting open cases ({Author})
-. Tech issues with putting open cases into a way for law profs to use ({Author1})
-. Our Current set up ({Author})
-. The future possibilities ({Author1})
+25 minutes total
+
+. Law School Pedagogy, CCLangdell and the caselaw method ( {Author} ) - 3 minutes
+. Original plan for eLangdell ({Author1}) - 3 minutes
+. Content issues/problems - e.g. How to figure out what case is a "contracts" case, how to decide how much case is used, copyright of TOCs and getting open cases ({Author}) - 5 minutes
+. Tech issues with putting open cases into a way for law profs to use ({Author1}) - 5 minutes
+. Our Current set up.  ({Author}) - 3/4 minutes
+. The future possibilities ({Author1}) 5 minutes
 
 
