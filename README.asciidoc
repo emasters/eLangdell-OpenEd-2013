@@ -1,23 +1,26 @@
-eLangdell-OpenEd-2013
-=====================
+eLangdell @ OpenEd 2013
+-----------------------
+
+:Author: Sarah Glassmeyer
+:Author1: Elmer Masters
 
 Our eLangdell talk for OpenEd 2013, developed in public on GitHub
 
-Topic Description: 
+=== Topic Description: 
 
 Christopher Columbus Langdell, professor at the Harvard Law School in the 19th Century,, developed the case law method of legal education, a method that continues to this day. In it, law students learn the law by reading court cases that interpret it. The eLangdell Press was conceived as a way to bring this method into the 21st century by creating open casebooks. After all, law is public domain material, and there are plenty of open source tools available to create the OER materials, so it should be relatively easy, right?
 
-Wrong.
+[red]*Wrong.*
 
 This session will detail the experience of the Center for Computer-Assisted Legal Instruction staff?s quest to open up the Legal Textbook system. Topics covered will include the challenges faced with working with government and legal information, the unique issues of the legal academe, and the best practices we?ve developed in creating our casebooks. 
 
-Outline of Talk:
+=== Outline of Talk:
 
-I. Law School Pedagogy, CCLangdell and the caselaw method (Sarah)
-II. Original plan for eLangdell (Elmer)
-III. Content issues/problems - e.g. How to figure out what case is a "contracts" case, how to decide how much case is used, copyright of TOCs and getting open cases (Sarah)
-IV. Tech issues with putting open cases into a way for law profs to use (Elmer)
-V. Our Current set up (Sarah)
-VI. The future possibilities (Elmer)
+. Law School Pedagogy, CCLangdell and the caselaw method ( {Author} )
+. Original plan for eLangdell ({Author1})
+. Content issues/problems - e.g. How to figure out what case is a "contracts" case, how to decide how much case is used, copyright of TOCs and getting open cases ({Author})
+. Tech issues with putting open cases into a way for law profs to use ({Author1})
+. Our Current set up ({Author})
+. The future possibilities ({Author}1)
 
 
