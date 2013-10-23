@@ -32,4 +32,4 @@ This session will detail the experience of the Center for Computer-Assisted Lega
 .. Pay authors and CALI retains copyright.  We release CC
 . The future possibilities ({Author1}) 5 minutes
 
-If they have questions, meet us in the bar.
+If they have questions, meet us in the bar.  We'll be the people looking smug
