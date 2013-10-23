@@ -18,11 +18,18 @@ This session will detail the experience of the Center for Computer-Assisted Lega
 
 25 minutes total
 
-. Law School Pedagogy, CCLangdell and the caselaw method ( {Author} ) - 3 minutes
+. Law School Pedagogy, CCLangdell and the caselaw method ( {Author} ) - 2-3 minutes
+.. Pre-20th century apprecticeship/phiosophical study
+.. Langdell, Harvard and reading cases late 19th century forward
 . Original plan for eLangdell ({Author1}) - 3 minutes
 . Content issues/problems - e.g. How to figure out what case is a "contracts" case, how to decide how much case is used, copyright of TOCs and getting open cases ({Author}) - 5 minutes
+.. Brief mention of legal information ecosystem and why it sucks (e.g. No open index, just keynumber)
+.. Cases cover several issues.  Plus have publisher copyrighted content
+.. Compiled list of all contracts cases.  So we had this list of cases.  Then what? 
 . Tech issues with putting open cases into a way for law profs to use ({Author1}) - 5 minutes
 . Our Current set up.  ({Author}) - 3/4 minutes
+.. breadcrumb approach. 4 types of pubishing formats for greatest chance of adoption - even print!  PDF most popular. Sad tromobone
+.. Pay authors and CALI retains copyright.  We release CC
 . The future possibilities ({Author1}) 5 minutes
 
-
+If they have questions, meet us in the bar.
