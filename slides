@@ -7,9 +7,109 @@
 :status:
 :navigation:
 
+== CALI
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/CALI.jpg[CALI Staff]
+
+[incremental="true"]
+How Six People Saved Law Students Over a Million Dollars in Two Years
+
+ifdef::backend-deckjs[<<<]
+
+*Non profit consortium of law schools
+*Ed Tech Skunk Works
+*Publisher of Educational Materials
+ 
 == Law School Pedagogy
 
-[options="step"]
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/ClassicalEducation.jpg[The Really Old Days]
+_Portrait of Douglas, 8th Duke of Hamilton, on his Grand Tour with his physician Dr John Moore and the latter's son John By Jean Preudhomme_
 
-http://localhost/projects/eLandgell-OpenEd-2013/images/ClassicalEducation.jpg 
+ifdef::backend-deckjs[<<<]
+
+[incremental="true"]
+*Not much different than other professional preparation
+*Rooted in Classics and Philosophy
+*Appreticeship to "read law" with practicing attorney 
+
+== The Langdell Innovation
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/CCLangdell.jpg[Langdell]
+_Source:Samuel F. Batchelder, Christopher C. Langdell, 18 The Green Bag 437 (1906)_
+
+== The Case Method
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/Casebook.jpg[casebook]
+_Photo credit: http://www.flickr.com/photos/davidortez/ CC BY-2.0_
+
+ifdef::backend-deckjs[<<<]
+
+[incremental="true"]
+*the original "Flipped Classroom"
+*No texbooks - students read legal cases
+*Socratic Method to determine law
+
+{ELMER START YOUR PART HERE}
+
+
+== The Raw Materials 
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/Reporters.jpg[Reporters]
+_Photo credit: http://www.flickr.com/photos/seychelles88/ CC By-SA-NC 2.0_
+
+== Public Domain...YES?
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/ReporterPage.jpg[Reporter Page]
+
+_Photo credit: http://www.flickr.com/photos/albaum/ CC BY-NC-SA 2.0_
+
+== No
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/MarkedUpReporterPage.jpg[Marked Up Reporters]
+
+== Other Barriers to Use and Discovery
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/Judge.jpg[judge]
+_Photo credit: http://www.flickr.com/photos/julochka/ CC BY-NC 2.0_
+
+ifdef::backend-deckjs[<<<]
+
+[incremental="true"]
+*Dense
+*Written by appellate court judges
+*Several topics covered per case
+
+== No Open Taxonomy 
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/DigestPage.jpg[digest]
+
+_Source: http://lawschool.westlaw.com/shared/marketinfodisplay.asp?code=WW&id=16 Key number PPT_
+
+
+Means no way of finding which cases you would want.
+
+== Our Solution
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/AmazonCasebooks.jpg[Amazon]
+
+== Table of Contents Surveys
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/TableofContents.jpg[ToC]
+
+_Source: http://griffinlawandreligion.com_
+
+[incremental="true"]
+*Just for general topic - not specific sub-topic
+
+{ELMER ADD YOUR PART HERE}
+
+== The Current Bookstore
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/eLangdellPress.jpg[bookstore]
+
+== Breadcrumb our People to Open
+
+image::http://localhost/projects/eLandgell-OpenEd-2013/images/CurrentBook.jpg[options]
+
+
 
