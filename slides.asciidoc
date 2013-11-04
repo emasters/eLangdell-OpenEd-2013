@@ -49,8 +49,13 @@ ifdef::backend-deckjs[<<<]
 * No texbooks - students read legal cases
 * Socratic Method to determine law
 
-{ELMER START YOUR PART HERE}
+== The eLangdell Project, A Brief History
 
+image::images/elangdell01.jpeg
+
+* 2005-06 Rip, Mix, Learn
+* A shared resource for law faculty to build course materials
+* 
 
 == The Raw Materials 
 
