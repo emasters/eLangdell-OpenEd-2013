@@ -8,113 +8,119 @@
 :navigation:
 
 == CALI
-
-image::images/CALI.jpg[CALI Staff]
-
-[incremental="true"]
+image::images/CALI.jpg[alt="CALI Staff" height=300]
+[options="step"]
 How Six People Saved Law Students Over a Million Dollars in Two Years
 
 == What is CALI?
-
 * Non profit consortium of law schools
 * Ed Tech Skunk Works
 * Publisher of Educational Materials
- 
-== Law School Pedagogy
 
-image::images/ClassicEducation.jpg[The Really Old Days]
-_Portrait of Douglas, 8th Duke of Hamilton, on his Grand Tour with his physician Dr John Moore and the latter's son John By Jean Preudhomme_
+== Law School Pedagogy
+.Portrait of Douglas, 8th Duke of Hamilton, on his Grand Tour with his physician Dr John Moore and the latter's son John By Jean Preudhomme
+image::images/ClassicEducation.jpg[alt="The Really Old Days" height=300]
 
 == Law School Pedagogy, con't.
-
-[incremental="true"]
+[options="step"]
 * Not much different than other professional preparation
 * Rooted in Classics and Philosophy
 * Appreticeship to "read law" with practicing attorney 
 
 == The Langdell Innovation
+.Source:Samuel F. Batchelder, Christopher C. Langdell, 18 The Green Bag 437 (1906)
+image::images/CCLangdell.jpg[alt="Langdell" height=300]
 
-image::images/CCLangdell.jpg[Langdell]
-_Source:Samuel F. Batchelder, Christopher C. Langdell, 18 The Green Bag 437 (1906)_
 
 == The Case Method
-
-image::images/Casebook.jpg[casebook]
-_Photo credit: http://www.flickr.com/photos/davidortez/ CC BY-2.0_
+.Photo credit: http://www.flickr.com/photos/davidortez/ CC BY-2.0
+image::images/Casebook.jpg[alt="casebook" height=300]
 
 == The Case Method, Con't
 
-[incremental="true"]
+[options="step"]
 * the original "Flipped Classroom"
 * No texbooks - students read legal cases
 * Socratic Method to determine law
 
 == The eLangdell Project, A Brief History
 
-image::images/elangdell01.jpeg
+image::images/elangdell01.jpeg[height=300]
 
-* 2005-06 Rip, Mix, Learn
-* A shared resource for law faculty to build course materials
-* 
+* 2005-06 - Rip, Mix, Learn
+* A platform for law faculty to build course materials
+
+== A Brief History, Con't
+
+image::images/legaledcommons.jpg[alt="LEC Logo" width=300]
+
+* 2007-09 - Team up with Berkman Center
+* Morphed to Legal Education Commons
+* Hoping to spark innovation in legal education
+
+== Prototypes Galore!
+
+* Several built, nothing stuck
+* There was a problem...
 
 == The Raw Materials 
-
-image::images/Reporters.jpg[Reporters]
-_Photo credit: http://www.flickr.com/photos/seychelles88/ CC By-SA-NC 2.0_
+.Photo credit: http://www.flickr.com/photos/seychelles88/ CC By-SA-NC 2.0
+image::images/Reporters.jpg[alt="Reporters" height=300]
 
 == Public Domain...YES?
-
-image::images/ReporterPage.jpg[Reporter Page]
-
-_Photo credit: http://www.flickr.com/photos/albaum/ CC BY-NC-SA 2.0_
+.Photo credit: http://www.flickr.com/photos/albaum/ CC BY-NC-SA 2.0
+image::images/ReporterPage.jpg[alt="Reporter Page" height=300]
 
 == No
 
-image::images/MarkedUpReporterPage.jpg[Marked Up Reporters]
+image::images/MarkedUpReporterPage.jpg[alt="Marked Up Reporters" height=300]
 
 == Other Barriers to Use and Discovery
+.Photo credit: http://www.flickr.com/photos/julochka/ CC BY-NC 2.0
+image::images/Judge.jpg[alt="judge" height=300]
 
-image::images/Judge.jpg[judge]
-_Photo credit: http://www.flickr.com/photos/julochka/ CC BY-NC 2.0_
 
 == Other Barriers, Con't
 
-[incremental="true"]
+[options="step"]
 * Dense
 * Written by appellate court judges
 * Several topics covered per case
 
 == No Open Taxonomy 
-
-image::images/DigestPage.jpg[digest]
-
-_Source: http://lawschool.westlaw.com/shared/marketinfodisplay.asp?code=WW&id=16 Key number PPT_
-
+.Source: http://lawschool.westlaw.com/shared/marketinfodisplay.asp?code=WW&id=16 Key number PPT
+image::images/DigestPage.jpg[alt="digest" height=300]
 
 Means no way of finding which cases you would want.
 
 == Our Solution
 
-image::images/AmazonCasebooks.jpg[Amazon]
+image::images/AmazonCasebooks.jpg[alt="Amazon" height=300]
 
 == Table of Contents Surveys
+.Source: http://griffinlawandreligion.com
+image::images/TableofContents.jpg[alt="ToC" height=300]
 
-image::images/TableofContents.jpg[ToC]
-
-_Source: http://griffinlawandreligion.com_
-
-[incremental="true"]
+[options="step"]
 * Just for general topic - not specific sub-topic
 
-{ELMER ADD YOUR PART HERE}
+== And we still needed cases...
+[options="step"]
+* Fastcase to the rescue
+* Processing for matching to topics, tagging meta data and more
+* Stored in db, search engine
 
 == The Current Bookstore
 
-image::images/eLangdellPress.jpg[bookstore]
+image::images/eLangdellPress.jpg[alt="bookstore" height=300]
 
 == Breadcrumb our People to Open
 
-image::images/CurrentBook.jpg[options]
+image::images/CurrentBook.jpg[alt="options" height=300]
 
-
+== Future of eLangdell
+[options="step"]
+* Fulfilling the promise
+* Begin with topics, gather materials
+* Output materials that students can use
 
