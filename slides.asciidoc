@@ -14,7 +14,7 @@ image::images/CALI.jpg[CALI Staff]
 [incremental="true"]
 How Six People Saved Law Students Over a Million Dollars in Two Years
 
-ifdef::backend-deckjs[<<<]
+== What is CALI?
 
 * Non profit consortium of law schools
 * Ed Tech Skunk Works
@@ -25,7 +25,7 @@ ifdef::backend-deckjs[<<<]
 image::images/ClassicEducation.jpg[The Really Old Days]
 _Portrait of Douglas, 8th Duke of Hamilton, on his Grand Tour with his physician Dr John Moore and the latter's son John By Jean Preudhomme_
 
-ifdef::backend-deckjs[<<<]
+== Law School Pedagogy, con't.
 
 [incremental="true"]
 * Not much different than other professional preparation
@@ -42,14 +42,14 @@ _Source:Samuel F. Batchelder, Christopher C. Langdell, 18 The Green Bag 437 (19
 image::images/Casebook.jpg[casebook]
 _Photo credit: http://www.flickr.com/photos/davidortez/ CC BY-2.0_
 
-ifdef::backend-deckjs[<<<]
+== The Case Method, Con't
 
 [incremental="true"]
 * the original "Flipped Classroom"
 * No texbooks - students read legal cases
 * Socratic Method to determine law
 
-{ELMER START YOUR PART HERE}
+{ELMER START HERE}
 
 
 == The Raw Materials 
