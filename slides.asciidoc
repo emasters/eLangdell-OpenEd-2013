@@ -72,7 +72,7 @@ image::images/MarkedUpReporterPage.jpg[Marked Up Reporters]
 image::images/Judge.jpg[judge]
 _Photo credit: http://www.flickr.com/photos/julochka/ CC BY-NC 2.0_
 
-ifdef::backend-deckjs[<<<]
+== Other Barriers, Con't
 
 [incremental="true"]
 * Dense
