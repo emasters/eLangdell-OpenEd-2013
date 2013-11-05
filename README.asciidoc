@@ -4,7 +4,8 @@ eLangdell @ OpenEd 2013
 :Author: Sarah Glassmeyer
 :Author1: Elmer Masters
 
-Our eLangdell talk for OpenEd 2013, developed in public on GitHub
+Our eLangdell talk for OpenEd 2013, developed in public on GitHub.
+http://cca.li/ri[View the slides for the talk].
 
 === Topic Description: 
 
