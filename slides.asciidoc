@@ -7,11 +7,24 @@
 :status:
 :navigation:
 
-== CALI
+== CALI - The Center for Computer-Assisted Legal Instruction
 .The whole entire CALI staff
-image::images/CALI.jpg[alt="CALI Staff" height=300]
+image::images/CALI.jpg[alt="CALI Staff" height=400]
 [options="step"]
 How Six People Saved Law Students Over a Million Dollars in Two Years
+
+== And we are...
+
+=== Sarah Glassmeyer
+@sglassmeyer
+
+sarah@cali.org
+
+=== Elmer Masters
+@emasters
+
+emasters@cali.org
+
 
 == What is CALI?
 * Non profit consortium of law schools
@@ -20,7 +33,7 @@ How Six People Saved Law Students Over a Million Dollars in Two Years
 
 == Law School Pedagogy
 .Portrait of Douglas, 8th Duke of Hamilton, on his Grand Tour with his physician Dr John Moore and the latter's son John By Jean Preudhomme
-image::images/ClassicEducation.jpg[alt="The Really Old Days" height=300]
+image::images/ClassicEducation.jpg[alt="The Really Old Days" height=500]
 
 == Law School Pedagogy, con't.
 [options="step"]
@@ -30,12 +43,12 @@ image::images/ClassicEducation.jpg[alt="The Really Old Days" height=300]
 
 == The Langdell Innovation
 .Source:Samuel F. Batchelder, Christopher C. Langdell, 18 The Green Bag 437 (1906)
-image::images/CCLangdell.jpg[alt="Langdell" height=300]
+image::images/CCLangdell.jpg[alt="Langdell" height=500]
 
 
 == The Case Method
 .Photo credit: http://www.flickr.com/photos/davidortez/ CC BY-2.0
-image::images/Casebook.jpg[alt="casebook" height=300]
+image::images/Casebook.jpg[alt="casebook" height=500]
 
 == The Case Method, Con't
 
@@ -46,7 +59,7 @@ image::images/Casebook.jpg[alt="casebook" height=300]
 
 == The eLangdell Project, A Brief History
 .Original concept art for eLangdell
-image::images/elangdell01.jpeg[height=300]
+image::images/elangdell01.jpeg[height=400]
 
 * 2005-06 - Rip, Mix, Learn
 * A platform for law faculty to build course materials
@@ -72,19 +85,19 @@ image::images/legaledcommons.jpg[alt="LEC Logo" width=300]
 
 == The Raw Materials 
 .Photo credit: http://www.flickr.com/photos/seychelles88/ CC By-SA-NC 2.0
-image::images/Reporters.jpg[alt="Reporters" height=300]
+image::images/Reporters.jpg[alt="Reporters" height=500]
 
 == Public Domain...YES?
 .Photo credit: http://www.flickr.com/photos/albaum/ CC BY-NC-SA 2.0
-image::images/ReporterPage.jpg[alt="Reporter Page" height=300]
+image::images/ReporterPage.jpg[alt="Reporter Page" height=500]
 
 == No
 .Lots of copyrighted material mixed in with public domain
-image::images/MarkedUpReporterPage.jpg[alt="Marked Up Reporters" height=300]
+image::images/MarkedUpReporterPage.jpg[alt="Marked Up Reporters" height=500]
 
 == Other Barriers to Use and Discovery
 .Photo credit: http://www.flickr.com/photos/julochka/ CC BY-NC 2.0
-image::images/Judge.jpg[alt="judge" height=300]
+image::images/Judge.jpg[alt="judge" height=500]
 
 == Other Barriers, Con't
 
@@ -95,17 +108,17 @@ image::images/Judge.jpg[alt="judge" height=300]
 
 == No Open Taxonomy 
 .Source: http://lawschool.westlaw.com/shared/marketinfodisplay.asp?code=WW&id=16 Key number PPT
-image::images/DigestPage.jpg[alt="digest" height=300]
+image::images/DigestPage.jpg[alt="digest" height=500]
 
-Means no way of finding which cases you would want.
+* Means no way of finding which cases you would want.
 
 == Our Solution
 .Casebooks
-image::images/AmazonCasebooks.jpg[alt="Amazon" height=300]
+image::images/AmazonCasebooks.jpg[alt="Amazon" height=500]
 
 == Table of Contents Surveys
 .Source: http://griffinlawandreligion.com
-image::images/TableofContents.jpg[alt="ToC" height=300]
+image::images/TableofContents.jpg[alt="ToC" height=500]
 
 [options="step"]
 * Just for general topic - not specific sub-topic
@@ -118,11 +131,11 @@ image::images/TableofContents.jpg[alt="ToC" height=300]
 
 == The Current Bookstore
 .The eLangdell Bookstore http://elangdell.cali.org/
-image::images/eLangdellPress.jpg[alt="bookstore" height=300]
+image::images/eLangdellPress.jpg[alt="bookstore" height=500]
 
 == Breadcrumb our People to Open
 .Currently over 30 titles
-image::images/CurrentBook.jpg[alt="options" height=300]
+image::images/CurrentBook.jpg[alt="options" height=500]
 
 == Future of eLangdell
 [options="step"]
@@ -130,3 +143,8 @@ image::images/CurrentBook.jpg[alt="options" height=300]
 * Begin with topics, gather materials
 * Output materials that students can use
 
+== About this presentaiton
+
+* On Github at https://github.com/emasters/eLangdell-OpenEd-2013
+** you can use the issue queue to ask questions, request more information
+* View the slides and more at http://emasters.github.io/eLangdell-OpenEd-2013/
