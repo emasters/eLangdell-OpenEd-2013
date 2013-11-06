@@ -8,6 +8,7 @@
 :navigation:
 
 == CALI
+.The whole entire CALI staff
 image::images/CALI.jpg[alt="CALI Staff" height=300]
 [options="step"]
 How Six People Saved Law Students Over a Million Dollars in Two Years
@@ -44,19 +45,25 @@ image::images/Casebook.jpg[alt="casebook" height=300]
 * Socratic Method to determine law
 
 == The eLangdell Project, A Brief History
-
+.Original concept art for eLangdell
 image::images/elangdell01.jpeg[height=300]
 
 * 2005-06 - Rip, Mix, Learn
 * A platform for law faculty to build course materials
 
 == A Brief History, Con't
-
+.A fuzzy logo
 image::images/legaledcommons.jpg[alt="LEC Logo" width=300]
 
 * 2007-09 - Team up with Berkman Center
 * Morphed to Legal Education Commons
 * Hoping to spark innovation in legal education
+
+== A Brief History, Con't
+
+* Late 2010 - eLangell Press
+* Open source, CC licensed casebooks, statutory and rules supplements
+* EPUB, .mobi, PDF, and .docx
 
 == Prototypes Galore!
 
@@ -72,13 +79,12 @@ image::images/Reporters.jpg[alt="Reporters" height=300]
 image::images/ReporterPage.jpg[alt="Reporter Page" height=300]
 
 == No
-
+.Lots of copyrighted material mixed in with public domain
 image::images/MarkedUpReporterPage.jpg[alt="Marked Up Reporters" height=300]
 
 == Other Barriers to Use and Discovery
 .Photo credit: http://www.flickr.com/photos/julochka/ CC BY-NC 2.0
 image::images/Judge.jpg[alt="judge" height=300]
-
 
 == Other Barriers, Con't
 
@@ -94,7 +100,7 @@ image::images/DigestPage.jpg[alt="digest" height=300]
 Means no way of finding which cases you would want.
 
 == Our Solution
-
+.Casebooks
 image::images/AmazonCasebooks.jpg[alt="Amazon" height=300]
 
 == Table of Contents Surveys
@@ -111,11 +117,11 @@ image::images/TableofContents.jpg[alt="ToC" height=300]
 * Stored in db, search engine
 
 == The Current Bookstore
-
+.The eLangdell Bookstore http://elangdell.cali.org/
 image::images/eLangdellPress.jpg[alt="bookstore" height=300]
 
 == Breadcrumb our People to Open
-
+.Currently over 30 titles
 image::images/CurrentBook.jpg[alt="options" height=300]
 
 == Future of eLangdell
