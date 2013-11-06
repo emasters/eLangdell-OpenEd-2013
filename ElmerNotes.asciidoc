@@ -10,12 +10,14 @@ My notes to go with the slides for our eLangdell talk
 * The original design was for a system that allowed faculty to browse and search a corpus of material (and the Internet), selecting, editing, and ordering the material for a specific course.
 * Delivery to students would be via website, download in various formats.
 * I'm still working on this.
+
 === eLangdell II 2007
 * Turned out to be really hard.
 * Began working with Berkman to further project. Berkman is a great champon of opne source and does some work in the education arena.
 * Since we were having issues getting material to actually use to build the system we struck upon the idea of creating a Commons that law faculty would contribute to.
 * The Legal Education Commons was the embodiment of the idea to create a commons that would feed the eLangdell platform.
 * Lots of faculty thought it was an excellent idea, but few shared.
+
 === eLangdell III 2010
 * Latest incarnation of eLangdell project is eLangdell Press.
 * Short circuit the contribution problem by paying faculty to write casebooks and chapters.
