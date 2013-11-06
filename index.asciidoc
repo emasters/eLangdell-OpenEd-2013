@@ -3,3 +3,10 @@
 Resoruces that go with the Open Education 2013 talk
 
 * http://cca.li/ri[Presentation Slides]
+
+Rip Mix Learn keynote introducing eLangdell. Starts at 11 minutes.
+++++
+<iframe width="420" height="315" src="//www.youtube.com/embed/yz6Lhp7q2hw" frameborder="0" allowfullscreen></iframe>
+++++
+
+
